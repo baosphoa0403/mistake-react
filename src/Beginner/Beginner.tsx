@@ -1,4 +1,5 @@
 import React from "react";
+import SetStateCallbackFunction from "./SetStateCallbackFunction/SetStateCallbackFunction";
 import UsingStateNotNeed from "./UsingStateNotNeed/UsingStateNotNeed";
 
 export default function Beginner() {
@@ -6,6 +7,7 @@ export default function Beginner() {
     <div>
       {" "}
       <UsingStateNotNeed />
+      <SetStateCallbackFunction />
     </div>
   );
 }
