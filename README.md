@@ -12,5 +12,10 @@
         ![image](src/Beginner/SetStateCallbackFunction/before.png)
       2. After
         ![image](src/Beginner/SetStateCallbackFunction/after.png)
+3. Referential Equality 
+      1. Before 
+        ![image](src/Beginner/ReferentialEquality/before.png)
+      2. After
+        ![image](src/Beginner/ReferentialEquality/after.png)
          
 

@@ -16,6 +16,7 @@ export default function SetStateCallbackFunction() {
       return text + "c";
     });
   };
+
   useEffect(() => {
     console.info("number useEffect : " + number);
   }, [number]);
@@ -29,6 +30,7 @@ export default function SetStateCallbackFunction() {
     // });
     console.log(number);
   };
+
   return (
     <div>
       SetStateCallbackFunction
