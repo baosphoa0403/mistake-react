@@ -17,5 +17,10 @@
         ![image](src/Beginner/ReferentialEquality/before.png)
       2. After
         ![image](src/Beginner/ReferentialEquality/after.png)
+4. Using Memo, UseCallback, UseMemo
+      1. Parent 
+        ![image](src/Beginner/Memo/Parent.png)
+      2. Child
+        ![image](src/Beginner/Memo/Child.png)
          
 
