@@ -6,8 +6,8 @@ import Parent from "demo/parent";
 function App() {
   return (
     <div className="App">
-      {/* <Beginner /> */}
-      <Parent />
+      <Beginner />
+      {/* <Parent /> */}
     </div>
   );
 }
